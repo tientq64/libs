@@ -1,1 +1,1 @@
-tailwindcss-cli build -o tailwind.css & cleancss tailwind.css -o tailwind.min.css
+tailwindcss-cli build -o tailwind.css -c tailwind.config.js & cleancss tailwind.css -o tailwind.min.css
